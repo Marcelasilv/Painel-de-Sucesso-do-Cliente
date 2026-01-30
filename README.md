@@ -13,3 +13,7 @@ O objetivo do projeto é demonstrar lógica de programação, manipulação do D
 
 ### 🎯 Objetivo
 Demonstrar como métricas simples podem ajudar na análise da experiência do cliente.
+
+## Demonstração
+
+https://github.com/user-attachments/assets/a66c9db7-7841-4ded-91b4-af263973fec5
